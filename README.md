@@ -6,6 +6,7 @@
 其他解决方式见[链接](https://zwkkkk1.blog.csdn.net/article/details/81564971)
   - 改写后缀名mjs 直接执行就可以
   - 将packagejson文件中改type为module即可 ---- 适用于13.2版本之后的版本
+  - 具体见https://blog.csdn.net/qq_44162474/article/details/107929042
 
 - 异步加载模块的知识点
 ```js
